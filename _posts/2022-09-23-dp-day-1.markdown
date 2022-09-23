@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Solo Adventures - DP Puzzlehunt (Day 1)"
+date:   2022-09-23 07:11:23 +0530
+---
+
+**Update 3** - If you can read this (duh), then I have figured out Jekyll and how to host this blog. Which is great, because now you can hear all my ramblings about... well... everything. [^1] 
+
+[^1]: On the not so bright side, I probably stayed up till 8 am or something stupid so... ;-;
+
+## [DP puzzlehunt](https://dp.puzzlehunt.net/index.html)
+
+This is the first puzzlehunt I am solving solo. Well, that's a lie, this is the second (the first being ShardHunt 1, and that ended in a personal disaster). So... I'm already lowering my expectations and preparing for rage. Lots and lots of rage. [^2].
+
+As much as possible I have tried to avoid spoilers (by keeping them in <span style="color: darkslategray; background: darkslategray;">spoilered tags</span> [select to read]). However, we might have differing thresholds for spoilers, I might have missed something, yadda yadda yadda. You have been warned. [^3].
+
+[^2]: **Update 4** : Having solved about 13 odd puzzles in the hunt already, there is a surprising lack of rage here so far. Desperation and a need for hints, yes. But I'm still chugging along, which is a surprising change. Only time will tell though, as I'm starting to get stalled on all my unlocked puzzles.
+
+[^3]: P.S. If anyone finds a better way to handle spoilers than my ugly-ass <span> hack, please halp. I will take any coding-fu help I can get.
+
+## Round 1
+
+#### [Top-Down Processing](https://dp.puzzlehunt.net/puzzle/top-down-processing.html) 
+Simple puzzle. I liked. It's surprising how much of countries is recognisable with so little visible. For everything else, there's Google Lens.
+
+#### [Cipher Salad](https://dp.puzzlehunt.net/puzzle/cipher-salad.html)
+This was my wheelhouse since I already could recognise half of these by heart. I like the fact that there's little snippets of help provided for everyone else new to solving though.
+
+#### [Petal path](https://dp.puzzlehunt.net/puzzle/petal-path.html)
+Despite puzzling for 1.5 years now, this is actually one of the very few times I've actually solved a crossword (or similar) all by myself. And I didn't even have to use google for it! I will always be in awe how grids like these (fully checked, that is) can be fit so easily, so there's still a lot to learn for me. Simple and nice. (Note to self - Make a spreadsheet grid for petal puzzles someday soon.) <span style="color: darkslategray; background: darkslategray;">Having read the solution, I didn't realise that way would work. It's super neat.</span>
+
+#### [Streamlined](https://dp.puzzlehunt.net/puzzle/streamlined.html)
+Fourth puzzle in a row that I ended up using MS Paint for. I wish the tool was not so perfect for literally everything ever. Simple and neat puzzle, but I spent way too much time overthinking it. Also pretty much the moment where I realised I don't have teammates to save me from drudge work, so I can't procastinate on puzzles forever. <span style="color: darkslategray; background: darkslategray;">I'm also surprised that everything here was so unambiguous</span>
+
+#### [Bottom Lines](https://dp.puzzlehunt.net/puzzle/bottom-lines.html)
+Simple, yet effective. I kept delaying this one for way too long, thinking it'd be much harder than it actually was. <span style="color: darkslategray; background: darkslategray;">I was fully prepared to just start searching the fonts until I figured it out and just overlay over it. I'm extra like that heh</span>
+
+#### [Now I know](https://dp.puzzlehunt.net/puzzle/now-i-know.html)
+This is the puzzle I'd been dreading because I didn't make any headway on it, and I give up too quickly. However, since my goal this hunt is to 100% everything, including every puzzle, I had to spend juuuust enough time on it to forcibly get it. <span style="color: darkslategray; background: darkslategray;">Turns out, if you google and fail, you should just google again. Huh?</span> I still don't fully get it[^5], but it's a clever idea. Fun puzzle for sure.
+
+[^5]: Americanisims(?) in puzzlehunts says what
+
+#### [Meta 1 (Finding Friends)](https://dp.puzzlehunt.net/puzzle/finding-friends.html)
+Simple puzzle, I liked. I'm shocked I didn't get the meta aha before seeing the puzzle. <span style="color: darkslategray; background: darkslategray;">I did realise they were all 8 letter words, and my first 3 answers were in A-H range, so you can see where I got led astray heh. </span> Weird that it look me so long to slot the last couple answers in though. I also got to test some crossword formulae and construct a pretty nifty [QAT query (spoilers, duh)](https://www.quinapalus.com/cgi-bin/qat?pat=8%3A*%7Bdef%3Abird%7D*&ent=Search&dict=0). I am happy.
+
+## Round 2
+
+#### [Greek Figures](https://dp.puzzlehunt.net/puzzle/greek-figures.html)
+And my MS Paint spree continues. This one, I procastinated over a little bit, as <span style="color: darkslategray; background: darkslategray;">I first tried to do it normally, bifurcated like crazy, then gave up to start auto-solving in spreadsheet, then realised the sheet is too small for 2^25 possibilities, then started coding in C++, then realised I don't want to code in C++ unless I have to, then came back to normal bifurcations, then realised I had multiple solutions... And then finally figuring out the adjacency rule for the puzzle</span> before I solved it manually after not too much struggle. A very clever puzzle idea, and I like this unique introductory take on logic puzzles.
+
+#### [Danger](https://dp.puzzlehunt.net/puzzle/danger.html)
+Simple. Immediately knew what to do. It was actually quite pleasurable, doing this in (surprise surprise) MS Paint. <span style="color: darkslategray; background: darkslategray;">I actually got 3 different wrong answers for this before I figured out my mistake. Lucky for me, I am not a 100% guess accuracy person, so.</span> So far I'm liking the leisurely pace of these puzzles. It almost makes me want to write my own puzzles again.
+
+#### [Sleep Talk](https://dp.puzzlehunt.net/puzzle/sleep-talk.html)
+Here my general strategy worked wonderfully, thankfully. <span style="color: darkslategray; background: darkslategray;">Aka, just put all the possible answers down, and figure out the aha between them later. The aha definitely made me go "Oh fuck", which is a great sign in a puzzle.</span> Overall, quite nice! I liked.
+
+#### [Smash Biros](https://dp.puzzlehunt.net/puzzle/smash-biros.html)
+This is where the slog begins (for me). Once I started grudgingly working on this one (mostly because I did not want to work on the other two open puzzles), the puzzle eventually fell. I even would have had the aha pretty much immediately, if it were not for the fact that <span style="color: darkslategray; background: darkslategray;">I latched onto biros and wanted to search for pen names or names of pens. A lot of the clues were exactly what I first thought they would be, so that was nice. I felt like some of the clues were either forced or TETCBN-y, but it happens when you have such a forced dataset. It however did take me blind-guessing the answer, then looking at the solution to realise that the final answer was not ambiguous (thanks to the blanks at end)</span> 
+
+#### [Demons and Deductions](https://dp.puzzlehunt.net/puzzle/demons-and-deductions.html)
+I enjoy Einstien riddles. And I definitely enjoy them more than learning [how Z3 constraint solver works](https://github.com/0vercl0k/z3-playground/blob/master/einstein_riddle_z3.py). Someday I will learn how to code up Einstien riddles on solvers instead of just doing them manually. Today's not that day. Clean, smooth puzzle. <span style="color: darkslategray; background: darkslategray;">It felt like I had all the ahas in the bag while solving. Just needed my busywork to catch up to my brain (which is good because I am sure taking my slow and sweet pace solving through this) After reading solution, I realise I need to check for acrostics way more than I do heh.</span>
+
+
+## Arbitrary Break Point
+
+**Update** : I miss having my bot do things automatically for me. I mean, it still can, but I'm too lazy to run 1 command to set it up. Maybe tomorrow. Speaking of other things I am gonna delay till tomorrow, are the rest of puzzles (3 down, 12 to go)[^4] and setting up Github pages or something similar to actually host this blog[^4] (Turns out, Wordpress free website does not support Plugins, which are needed to make spoiler tags work).
+
+[^4]: Spoiler alert : Neither of those things were delayed for "tomorrow", as you can tell.
+
+**Update 2** : I lied. And instead kept working on puzzles for the next 4 hours (It is now 5 am), only to keep lamenting my lack of progress. And here's an update of where we got...
+
+#### [Fork in Road](https://dp.puzzlehunt.net/puzzle/a-fork-in-the-road.html) : Solved
+This puzzle, I knew what to do from the start but just took my sweet time avoiding it (I even looked at Geocaching for a bit!) because I didn't want to transcribe. (Oh how I miss `COPY TO CLIPBOARD` and `LINK TO SPREADSHEET` from newer puzzle hunts). Simple puzzle, clever aha. It was mostly smooth sailing, with a couple hiccups in between.
+
+<span style="color: darkslategray; background: darkslategray;">I thought it was "Word1 or Word2" clues, not "Word1 Word2" until I googled the pieman rhyme clue. My favourite part of it all was how it all came together for the final cluephrase. Extremely extremely thematic, perfectly identifiable, and I'm still in slight awe how you got the "perfect words" to illustrate the final cluephrase. Just.... chefskiss.</span> Very fun, maybe even borderline worth staying up. Plus, I got to construct another fun [QAT query (spoilers!)](https://www.quinapalus.com/cgi-bin/qat?pat=ABCest%3BABCward%3B%7CABC%7C%3D3%3B&ent=Search&dict=0) (to make up for my lack of crossword skills), which is always cool.
+
+#### [Oodles of Doodles](https://dp.puzzlehunt.net/puzzle/oodles-of-doodles.html) : Unsolved
+Finding the words was easy. But after that I've looked at all the pieces upside down and cannot figure out just how to proceed from there. My brain is running in circles, stuck...
+
+#### [Geocaching](https://dp.puzzlehunt.net/puzzle/geocaching.html) : Unsolved
+Ooh a text adventure(esque). This is fun. *Runs away as far as humanly possible* - *Gets blocked on all other puzzles* - *Slowly comes back to it* - *Slight progress and only mild grouching*. Overall, not my genre of puzzle yet, and I'm still in data collection phase, but that's why we're 100%-ing, right? I'm still not seeing it all, so let's see if sleeping brings more insights...
+
+#### [Fill in for me](https://dp.puzzlehunt.net/puzzle/fill-in-for-me.html) : Unsolved
+I feel like a spreadsheet God. Between <span style="color: darkslategray; background: darkslategray;">`=COUNT_IN()` for getting letter frequencies for my initial break-in, `=CROSSWORD_LIST()` for extracting words already placed in the crossword to `=SUBTRACT_RANGE()` for subtracting things between ranges, it's like the entire thing filled itself. No need to manually mark cells as "done". When I fill in a word, it's automatically collected and marked everywhere. ALL automatic, from top to bottom!</span>.[^6] [^7] Very satisfying, even as I miss a major aha in there still. I feel like I can still crack it with some massaging...
+
+[^6]: All aforementioned sheet functions can be found at ["Google Sheet Puzzle Tricks"](https://docs.google.com/spreadsheets/d/1mTVD0KtjbU6-wp1mvYU_abrjdCmnP9focRa1qp36rrY/edit#gid=320864130) or at a local SoftFro near you.
+
+[^7]: Yes yes I know you can see function names through the spoiler block. And you know what... I'm just gonna let them be. Have the aura of mystery. Definitely not because I can't be bothered to figure it out (If you do find a solution, pls tell ty).
+
+#### [Multilingual](https://dp.puzzlehunt.net/puzzle/multilingual.html) : Unsolved
+*Solve Fork In Road* - *Unlock shiny new puzzle* - *Take one look* - *Nope I'm going to sleep. Nooope*....
+
+## Assorted Footnotes
