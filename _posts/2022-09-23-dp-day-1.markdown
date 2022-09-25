@@ -4,15 +4,15 @@ title:  "Solo Adventures - DP Puzzlehunt (Day 1)"
 date:   2022-09-23 07:11:23 +0530
 ---
 
-**Update 3** - If you can read this (duh), then I have figured out Jekyll and how to host this blog. Which is great, because now you can hear all my ramblings about... well... everything. [^1] 
+**Update 3** - If you can read this (duh), then I have figured out Jekyll and how to host this blog. Which is great, because now you can hear all my ramblings about... well... everything.[^1] 
 
 [^1]: On the not so bright side, I probably stayed up till 8 am or something stupid so... ;-;
 
 ## [DP puzzlehunt](https://dp.puzzlehunt.net/index.html)
 
-This is the first puzzlehunt I am solving solo. Well, that's a lie, this is the second (the first being ShardHunt 1, and that ended in a personal disaster). So... I'm already lowering my expectations and preparing for rage. Lots and lots of rage. [^2].
+This is the first puzzlehunt I am solving solo. Well, that's a lie, this is the second (the first being ShardHunt 1, and that ended in a personal disaster). So... I'm already lowering my expectations and preparing for rage. Lots and lots of rage.[^2]
 
-As much as possible I have tried to avoid spoilers (by keeping them in <span style="color: darkslategray; background: darkslategray;">spoilered tags</span> [select to read]). However, we might have differing thresholds for spoilers, I might have missed something, yadda yadda yadda. You have been warned. [^3].
+As much as possible I have tried to avoid spoilers (by keeping them in <span style="color: darkslategray; background: darkslategray;">spoilered tags</span> [select to read]). However, we might have differing thresholds for spoilers, I might have missed something, yadda yadda yadda. You have been warned.[^3]
 
 [^2]: **Update 4** : Having solved about 13 odd puzzles in the hunt already, there is a surprising lack of rage here so far. Desperation and a need for hints, yes. But I'm still chugging along, which is a surprising change. Only time will tell though, as I'm starting to get stalled on all my unlocked puzzles.
 
@@ -59,6 +59,7 @@ This is where the slog begins (for me). Once I started grudgingly working on thi
 
 #### [Demons and Deductions](https://dp.puzzlehunt.net/puzzle/demons-and-deductions.html)
 I enjoy Einstien riddles. And I definitely enjoy them more than learning [how Z3 constraint solver works](https://github.com/0vercl0k/z3-playground/blob/master/einstein_riddle_z3.py). Someday I will learn how to code up Einstien riddles on solvers instead of just doing them manually. Today's not that day. Clean, smooth puzzle. <span style="color: darkslategray; background: darkslategray;">It felt like I had all the ahas in the bag while solving. Just needed my busywork to catch up to my brain (which is good because I am sure taking my slow and sweet pace solving through this) After reading solution, I realise I need to check for acrostics way more than I do heh.</span>
+
 
 
 ## Arbitrary Break Point
