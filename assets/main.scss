@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/** Spoilers **/
+
+.spoiler, .spoiler * { color: darkslategray; background: darkslategray; }
+.spoiler:hover, .spoiler:hover * { color: white }

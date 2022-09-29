@@ -6,7 +6,7 @@ date:   2022-09-25 14:23:00 +0530
 
 ## [DP puzzlehunt](https://dp.puzzlehunt.net/index.html) - Round 2 (continued)
 
-To see spoilers, just select the <span style="color: darkslategray; background: darkslategray;">spoilered text</span>.
+To see spoilers, just ~~select~~ hover over the <span class="spoiler">spoilered text</span>.
 
 [Previously on "Tales from Tim"...](/2022/09/23/dp-day-1.html)
 
@@ -16,7 +16,7 @@ We solved 6+1/7 of Round 1, and 6/17 of Round 2 within half a day. We're taking 
 
 #### [Six of One, Half a Dozen of the Other](https://dp.puzzlehunt.net/puzzle/six-of-one-half-a-dozen-of-the-other.html)
 
-I finally reached this one after trying every other puzzle open (Width of 7, and this newly open puzzle still ranked above everything but Magic Match ;-;) I don't like opening up my width this hard, but I am also sleepy.[^8] So this puzzle it is. Neat puzzle, easy aha. I expected something more, so having the puzzle be simpler than expected is always a welcome surprise. Overall, perfect for half asleep me. Yay, progress! <span style="color: darkslategray; background: darkslategray;">Not the happiest with the final cluephrase though. It felt fairly ambiguous on the overall, I just happened to select the correct answer first try.</span>
+I finally reached this one after trying every other puzzle open (Width of 7, and this newly open puzzle still ranked above everything but Magic Match ;-;) I don't like opening up my width this hard, but I am also sleepy.[^8] So this puzzle it is. Neat puzzle, easy aha. I expected something more, so having the puzzle be simpler than expected is always a welcome surprise. Overall, perfect for half asleep me. Yay, progress! <span class="spoiler">Not the happiest with the final cluephrase though. It felt fairly ambiguous on the overall, I just happened to select the correct answer first try.</span>
 
 [^8]: It is indeed next morning and I haven't yet gone to sleep ;-;
 
@@ -29,35 +29,36 @@ Oh yay, a Cryptic crossword where I don't have my teammates to save me. Now THIS
 *(A few minutes later)* These were definitely NOT as bad as I was expecting them to be. I guess my expectation has been temered by my teammates super quickly getting everything, but I did get most of these first try! Got the clues actually without any pain. Extraction took me slightly longer than I wanted, but I got there. 10/10, would do cryptics again. What's even more shocking is that I started (and finished) this immediately on unlock (or maybe it's just a sign of how stuck I am everywhere else ;-;)
 
 #### [Nought But a Crossover](https://dp.puzzlehunt.net/puzzle/nought-but-a-crossover.html)
-Started it. Got to the obvious spot. Got stuck. (Sleep Break) Came back after a few hours sleep, followed my gut, got the answer. Huh. <span style="color: darkslategray; background: darkslategray;"> It also helped to have faith in Nutrimatic when my eyes just saw "weird letters".</span> Overall, cute puzzle.
+Started it. Got to the obvious spot. Got stuck. (Sleep Break) Came back after a few hours sleep, followed my gut, got the answer. Huh. <span class="spoiler"> It also helped to have faith in Nutrimatic when my eyes just saw "weird letters".</span> Overall, cute puzzle.
 
 #### [21st Century Celluloid Man](https://dp.puzzlehunt.net/puzzle/21st-century-celluloid-man.html)
 
-<span style="color: darkslategray; background: darkslategray;">This time I did not forget to look at first letters, and I got to witness absolute confusion at frightful organs... O SCARY EARS!</span> Puzzle was straighforward, and I had every aha in the bag beforehand. I feel like the puzzles are getting easier towards the end of the round, which is absolutely the right choice. Helps solvers not feel "stuck" on the hunt once they start making progress. Makes sense, considering the experience level of this setting crew, but still.
+<span class="spoiler">This time I did not forget to look at first letters, and I got to witness absolute confusion at frightful organs... O SCARY EARS!</span> Puzzle was straighforward, and I had every aha in the bag beforehand. I feel like the puzzles are getting easier towards the end of the round, which is absolutely the right choice. Helps solvers not feel "stuck" on the hunt once they start making progress. Makes sense, considering the experience level of this setting crew, but still.
 
 #### [Play on Words](https://dp.puzzlehunt.net/puzzle/play-on-words.html)
 
-Simple. Easy. Quick. My feeling of "Easy puzzles at the end" persists, which is a good thing, because the meta is near. <span style="color: darkslategray; background: darkslategray;">Struggled a bit with the final answer-phrase (and I'm honestly not happy with it) but such is puzzlesetting life. It was unambiguous enough with the enums, so I guess that counts.</span> Overall, cute puzzle.
+Simple. Easy. Quick. My feeling of "Easy puzzles at the end" persists, which is a good thing, because the meta is near. <span class="spoiler">Struggled a bit with the final answer-phrase (and I'm honestly not happy with it) but such is puzzlesetting life. It was unambiguous enough with the enums, so I guess that counts.</span> Overall, cute puzzle.
 
 #### [Deity Duos](https://dp.puzzlehunt.net/puzzle/deity-duos.html)
 
-One look at the puzzle, and I know it's time to sleep. Absolutely no effing clue what to do and where. (Sleep break and a half) I start looking through it and not make any headway.<span style="color: darkslategray; background: darkslategray;">Until I follow the adage of "If you googled, google again". Suddenly the subject matter popped up, and I could start making progress. I still had no idea what to do, except a very vague sense of "Make connections". Instead of figuring out if the 11 listed boons were supposed to be in the circle or to be ignored, I just guessed the first word and filled in the right gods. Assuming we were to use the 11 listed boons, the second word gave me a very weird MOI\_\_I. Nutrimatic immediately gave me the second word anyway, so I submitted the first thematic 5-letter word, and voila! Ultimately I am pretty happy with the level of Cheese I could achieve. I feel like I was missing that from my solo solve. Had no clue how it worked, and only sorta figured it out by backfilling everything, but it was nice.</span>
+One look at the puzzle, and I know it's time to sleep. Absolutely no effing clue what to do and where. 
 
-Overall okay puzzle. I'm just happy with my cheese. <span style="color: darkslategray; background: darkslategray;">Having read the solution, I'm kinda glad I did cheese it. It's not my kind of logic puzzle, and the rush of getting the answer after 5 letters was enough.</span>
+...*(Sleep break and a half)* I start looking through it and not make any headway. <span class="spoiler">Until I follow the adage of "If you googled, google again". Suddenly the subject matter popped up, and I could start making progress. I still had no idea what to do, except a very vague sense of "Make connections". Instead of figuring out if the 11 listed boons were supposed to be in the circle or to be ignored, I just guessed the first word and filled in the right gods. Assuming we were to use the 11 listed boons, the second word gave me a very weird `MOI\_\_I`. Nutrimatic immediately gave me the second word anyway, so I submitted the first thematic 5-letter word, and voila! Ultimately I am pretty happy with the level of Cheese I could achieve. I feel like I was missing that from my solo solve. Had no clue how it worked, and only sorta figured it out by backfilling everything, but it was nice.</span>
 
+Overall okay puzzle. I'm just happy with my cheese. <span class="spoiler">Having read the solution, I'm kinda glad I did cheese it. It's not my kind of logic puzzle, and the rush of getting the answer after 5 letters was enough.</span>
 
 #### [The Magic Match](https://dp.puzzlehunt.net/puzzle/the-magic-match.html)
-I actually made a TON of progress on this, and was happy about how I was headed. <span style="color: darkslategray; background: darkslategray;">but the puzzle has way too much ambiguity in its' sentences for me to be happy with this.</span> I try to solve, and get gibberish. Lots of progress, but now I don't wanna recheck my work.
+I actually made a TON of progress on this, and was happy about how I was headed. <span class="spoiler">but the puzzle has way too much ambiguity in its' sentences for me to be happy with this.</span> I try to solve, and get gibberish. Lots of progress, but now I don't wanna recheck my work.
 
-...*(Sleep break and a half)* After basically being one solve away from the meta and either being hard stuck (Oodles, Fill in, Multilingual) or don't want to solve (Geocaching) the other puzzles... I decide to come back at this. Takes a while, edit a couple silly errors but I get there. <span style="color: darkslategray; background: darkslategray;">My instinct yesterday of ambiguous sentences remained. Specially the "...accidentally create a portal" and the "player that caused..." lines. Some of the bad parsing was just me being a dum-dum though.</span> Overall pretty aight puzzle, and one I'm happy to have solved.
+...*(Sleep break and a half)* After basically being one solve away from the meta and either being hard stuck (Oodles, Fill in, Multilingual) or don't want to solve (Geocaching) the other puzzles... I decide to come back at this. Takes a while, edit a couple silly errors but I get there. <span class="spoiler">My instinct yesterday of ambiguous sentences remained. Specially the "...accidentally create a portal" and the "player that caused..." lines. Some of the bad parsing was just me being a dum-dum though.</span> Overall pretty aight puzzle, and one I'm happy to have solved.
 
 Now to the metaaaaaaaaaa....
 
 #### [Finding Myself](https://dp.puzzlehunt.net/puzzle/finding-myself.html)
 
-This was straightforward. <span style="color: darkslategray; background: darkslategray;">I didn't notice the meta aha before the unlock even though I should have. But one google got me the answer very consistently each time, so maybe I should just google before meta unlocks. Otherwise the aha was clean and direct, and everything was smooth sailing.</span> Most of my time was actually spent transcribing[^9] Overall, nice and cute. I like. Now for the expected backsolve attempts....
+This was straightforward. <span class="spoiler">I didn't notice the meta aha before the unlock even though I should have. But one google got me the answer very consistently each time, so maybe I should just google before meta unlocks. Otherwise the aha was clean and direct, and everything was smooth sailing.</span> Most of my time was actually spent transcribing[^9] Overall, nice and cute. I like. Now for the expected backsolve attempts....
 
-<span style="color: darkslategray; background: darkslategray;">Instantly backsolved "Fill in for me" and got literally nothing else. Whether I got the meta-phrase wrong, or I'm not imaginative enough to get the feeder, idk. But I felt comfortable only burning about 10-14 guesses on each of the 3 remaining puzzles, as that's how many guesses I'd use in a real hunt. So I guess it's back to forward solving, maaaybe time for a hint?</span>
+<span class="spoiler">Instantly backsolved "Fill in for me" and got literally nothing else. Whether I got the meta-phrase wrong, or I'm not imaginative enough to get the feeder, idk. But I felt comfortable only burning about 10-14 guesses on each of the 3 remaining puzzles, as that's how many guesses I'd use in a real hunt. So I guess it's back to forward solving, maaaybe time for a hint?</span>
 
 [^9]: Moments like these is why I feel so happy I am doing this leisurely. Just looking at how quickly a supersolver like [Projectyl](https://dp.puzzlehunt.net/team/We+Regret+To+Inform+You+That+It+Is+Projectyl.html) solves these puzzles make me full of awe. Like I can't even transcribe everything that quickly, what?
 
@@ -69,18 +70,18 @@ This was straightforward. <span style="color: darkslategray; background: darksla
 Having solved puzzles for about 2-3ish days now (with some meeting friends in between), I was starting to lose patience and fatigue myself out. So decided to start hinting at least a little.
 
 #### [Fill in for ME](https://dp.puzzlehunt.net/puzzle/fill-in-for-me.html) : Backsolved then Hinted then Forwardsolved
-> I feel like a spreadsheet God. Between <span style="color: darkslategray; background: darkslategray;">`=COUNT_IN()` for getting letter frequencies for my initial break-in, `=CROSSWORD_LIST()` for extracting words already placed in the crossword to `=SUBTRACT_RANGE()` for subtracting things between ranges, it's like the entire thing filled itself. No need to manually mark cells as "done". When I fill in a word, it's automatically collected and marked everywhere. ALL automatic, from top to bottom!</span>.[^6] [^7] Very satisfying, even as I miss a major aha in there still. I feel like I can still crack it with some massaging...
+> I feel like a spreadsheet God. Between <span class="spoiler">`=COUNT_IN()` for getting letter frequencies for my initial break-in, `=CROSSWORD_LIST()` for extracting words already placed in the crossword to `=SUBTRACT_RANGE()` for subtracting things between ranges, it's like the entire thing filled itself. No need to manually mark cells as "done". When I fill in a word, it's automatically collected and marked everywhere. ALL automatic, from top to bottom!</span>.[^6] [^7] Very satisfying, even as I miss a major aha in there still. I feel like I can still crack it with some massaging...
 
-...*(Sleep and a half)* <span style="color: darkslategray; background: darkslategray;">After having backsolved this one, I come back to this and crack my head at it again. Didn't work, so ask for a hint anyway. Turns out, I was holding very strongly to an idea (Clashing entries being 1 letter away) that didn't work. The puzzle was good and how it worked was pretty neat, I just horribly stuck myself into a corner. After two-ish different hints and a little bit of playing whack-a-doodle, finally got the extraction.</span> Very cool puzzle on the overall, and extremely fun, even if I got stuck.
+...*(Sleep and a half)* <span class="spoiler">After having backsolved this one, I come back to this and crack my head at it again. Didn't work, so ask for a hint anyway. Turns out, I was holding very strongly to an idea (Clashing entries being 1 letter away) that didn't work. The puzzle was good and how it worked was pretty neat, I just horribly stuck myself into a corner. After two-ish different hints and a little bit of playing whack-a-doodle, finally got the extraction.</span> Very cool puzzle on the overall, and extremely fun, even if I got stuck.
 
 [^6]: All aforementioned sheet functions can be found at ["Google Sheet Puzzle Tricks"](https://docs.google.com/spreadsheets/d/1mTVD0KtjbU6-wp1mvYU_abrjdCmnP9focRa1qp36rrY/edit#gid=320864130) or at a local SoftFro near you.
 
-[^7]: Yes yes I know you can see function names through the spoiler block. And you know what... I'm just gonna let them be. Have the aura of mystery. Definitely not because I can't be bothered to figure it out (If you do find a solution, pls tell ty).
+[^7]: ~~Yes yes I know you can see function names through the spoiler block. And you know what... I'm just gonna let them be. Have the aura of mystery. Definitely not because I can't be bothered to figure it out (If you do find a solution, pls tell ty).~~ **Update (26 Sept 22):** Betaveros taught me how to do better spoilers! :D I love being around people more capable than me!
 
 #### [Oodles of Doodles](https://dp.puzzlehunt.net/puzzle/oodles-of-doodles.html) : Hinted then Solved
 > Finding the words was easy. But after that I've looked at all the pieces upside down and cannot figure out just how to proceed from there. My brain is running in circles, stuck...
 
-... *(Sleep and a half)* Still stuck so decided to get a hint. Needed two of them again before I realised the aha, even though I had pretty much everything else of note figured out. Nice puzzle. <span style="color: darkslategray; background: darkslategray;">I just personally struggle a lot with rhymes and similar (I blame my accent) so no wonder I was struggling even after being told "It's rhymes".</span>
+... *(Sleep and a half)* Still stuck so decided to get a hint. Needed two of them again before I realised the aha, even though I had pretty much everything else of note figured out. Nice puzzle. <span class="spoiler">I just personally struggle a lot with rhymes and similar (I blame my accent) so no wonder I was struggling even after being told "It's rhymes".</span>
 
 #### [Multilingual](https://dp.puzzlehunt.net/puzzle/multilingual.html) : Hinted then Hinted then Solved
 > *Solve Fork In Road* - *Unlock shiny new puzzle* - *Take one look* - *Nope I'm going to sleep. Nooope*....
@@ -89,14 +90,14 @@ Having solved puzzles for about 2-3ish days now (with some meeting friends in be
 
 ...*(Sleep and a half)* Still stuck and sort of trying all possible directions. I feel like I'm missing an aha still.
 
-...*(Another sleep and a half)* It's been 2 days and I'm still stuck. Used a hint to realise <span style="color: darkslategray; background: darkslategray;">There was that Japanese table involved. Took me a long while and basically my hinter to explain that there are not 5 different tables, just one table viewed different ;-; I feel like I had the main ahas pretty much in the bag here, I just kept messing it up until another hint basically gave me the "Take the word answer in their language not English/Japanese".</span> Overall, I'm pretty dissastisfied with how I did this puzzle, but such is life. Pretty cool puzzle though, well roundedish. And I'm getting a nice long Japanese lecture from it, so I'm happy to learn new things.
+...*(Another sleep and a half)* It's been 2 days and I'm still stuck. Used a hint to realise <span class="spoiler">There was that Japanese table involved. Took me a long while and basically my hinter to explain that there are not 5 different tables, just one table viewed different ;-; I feel like I had the main ahas pretty much in the bag here, I just kept messing it up until another hint basically gave me the "Take the word answer in their language not English/Japanese".</span> Overall, I'm pretty dissastisfied with how I did this puzzle, but such is life. Pretty cool puzzle though, well roundedish. And I'm getting a nice long Japanese lecture from it, so I'm happy to learn new things.
 
 #### [Geocaching](https://dp.puzzlehunt.net/puzzle/geocaching.html) : Solved
 > Ooh a text adventure(esque). This is fun. *Runs away as far as humanly possible* - *Gets blocked on all other puzzles* - *Slowly comes back to it* - *Slight progress and only mild grouching*. Overall, not my genre of puzzle yet, and I'm still in data collection phase, but that's why we're 100%-ing, right? I'm still not seeing it all, so let's see if sleeping brings more insights...
 
-...*(Sleep and a half)* I realised I was being a dumbdumb. I have made some progress <span style="color: darkslategray; background: darkslategray;">and can probably figure out which meta phrase this would belong to. I even noticed the first letters of titles thing (How quickly I forget to do that).</span> However, I am stuck again. I have a vague sense of where to go, but this is still taking me nowhere yet.
+...*(Sleep and a half)* I realised I was being a dumbdumb. I have made some progress <span class="spoiler">and can probably figure out which meta phrase this would belong to. I even noticed the first letters of titles thing (How quickly I forget to do that).</span> However, I am stuck again. I have a vague sense of where to go, but this is still taking me nowhere yet.
 
-...*(Another sleep and a half)* This is now the last puzzle standing. I was just about to draft my hint request when I decided to look at the info I had again. Voila, breakthrough! <span style="color: darkslategray; background: darkslategray;">I forgot to look at last letters (of titles) this time, sigh.</span> Once I got through it, the aha actually came a lot easier. <span style="color: darkslategray; background: darkslategray;">Aka the letters are given in some specific weather condition each. After that was just a tiny bit of struggling as I worked my way towards the final cluephrase.</span>[^10] <span style="color: darkslategray; background: darkslategray;">The funny thing here though is... I was actually fairly close to backsolving, had I not gotten stuck on OCEAN.</span>
+...*(Another sleep and a half)* This is now the last puzzle standing. I was just about to draft my hint request when I decided to look at the info I had again. Voila, breakthrough! <span class="spoiler">I forgot to look at last letters (of titles) this time, sigh.</span> Once I got through it, the aha actually came a lot easier. <span class="spoiler">Aka the letters are given in some specific weather condition each. After that was just a tiny bit of struggling as I worked my way towards the final cluephrase.</span>[^10] <span class="spoiler">The funny thing here though is... I was actually fairly close to backsolving, had I not gotten stuck on OCEAN.</span>
 
 Overall, nice puzzle. Took me a while to get there, but I did. Not my style of puzzle, but I'm happy.
 
@@ -111,4 +112,3 @@ Overall, I am fairly happy I did DP within 2-3 days, plus or minus a few hints. 
 Overall, fairly happy with this. Fun times were had.
 
 ## References, in some sorting
-
