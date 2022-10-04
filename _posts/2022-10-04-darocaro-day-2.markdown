@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solo Adventures - Darocaro (Day 2)"
-date:   2022-09-31 23:30:00 +0530
+date:   2022-10-04 05:30:00 +0530
 ---
 
 
