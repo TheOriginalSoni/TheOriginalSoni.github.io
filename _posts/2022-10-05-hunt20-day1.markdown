@@ -1,0 +1,144 @@
+---
+layout: post
+title:  "Solo Adventures - Hunt20 (Day 1)"
+date:   2022-10-05 05:30:00 +0530
+---
+
+
+## [Hunt20](https://hunt20.com/puzzles.html)
+
+To see spoilers, just hover over the <span class="spoiler">spoilered text</span>.
+
+Remember how in my [DaroCaro](/2022/09/29/darocaro-day-1.html) [posts](/2022/10/04/darocaro-day-2.html), I said I was not sure if I'll do Hunt20 yet? Well guess who has a puzzling problem! 
+
+I did "[start](https://hunt20.com/team/TimAnarchy.html)" this hunt live[^1] and got partially spoiled on little bits of the hunt elsewhere, but it'll still be a fun one to tackle.
+
+That said, let's dig in!
+
+[^1]: For some definition of the word start, anyway. I did "one" puzzle solo (Yes that is indeed my solo team :p ) and then decided to join up with a fellow friend, who promptly and very dramatically ditched me to solo the hunt instead ;-;
+
+
+### [Harry Potter](https://hunt20.com/puzzle/harry-potter.html)
+
+This puzzle, I had already solved when I tackled it solo. I like it. Simple, clean, neat. I think I even attempted solving it without a spreadsheet (it didn't work). Cute and clean.
+
+For completeness, I did solve the puzzle again right now. Surprisingly (or maybe unsurprisingly), I could solve nearly all the clues by heart.
+
+### [The Maze Runner](https://hunt20.com/puzzle/maze-runner.html)
+
+Steady sailing from start to end. <span class="spoiler">The BLIND aha took me a lil bit, but didn't otherwise slow me down. Similarly, the final cluephrase took me a hot sec (`RANTY ILBH` for the win) but got it within the minute.</span> Nice puzzle, clean execution.
+
+### [Treasure Island](https://hunt20.com/puzzle/treasure-island.html)
+
+Saw the puzzle, knew what to do immediately. I love [Scratch](https://scratch.mit.edu/) and giving it as a tool for making the jigsaw bit was really smart. So far I'm very impressed with the high QOL improvements given in this hunt. Very nice.
+
+Once I got to the <span class="spoiler">Star Battle, I got a lil bit stuck a couple times. Had to bifurcate twice to run myself into the ground, only to realise I made a silly error on my next try. Eventually I just threw it all on a star battle solver, just to be sure this puzzle was solvable (And that I didn't do any silly transcription errors.</span>[^2] <span class="spoiler">Midway through the next star battle solve, I saw the letters (neatly highlighted by my Conditional Formatting) and made a simple Nutri formula to extract the final cluephrase (Why? because I could).</span>[^3]
+
+After calling in the answer, I went back to the puzzle and solved it manually. It was fun. Overall puzzle was simple, clean and neat. (I'm sensing a theme through this hunt). I liked!
+
+[^2]: Don't worry, I didn't actually use their solution, just got back to another star battle run once I knew there "was" a solution. Also I didn't make any transcription errors, so yay me.
+
+[^3]: Have I told you guys how amazing conditional formatting is? It's like a piece of the holy grail that glues my puzzling together.
+
+### [Lord of the Rings](https://hunt20.com/puzzle/lord-of-the-rings.html)
+
+I was mildly spoiled on this one from earlier <span class="spoiler">(just the fact that you put letters in the grid, so nothing big)</span>, so tried to avoid it for slightly later. <span class="spoiler">Image ID was suprisingly unambiguous, and I got almost all of them first try. After a couple tries, putting all the words in the grid was clearcut. Made a mistake with ISABELLE, but somehow still extracted the right letter. Nutrimaticked the answer, then used a simple crazy function to Nutrimatic the other IDs.</span>
+
+Simple, clean. Nice puzzle. I like! I am mildly amused and happy that they actually provided a GSheets template for this.
+
+### [Six of Crows](https://hunt20.com/puzzle/six-of-crows.html)
+
+Took me a short while to get the aha, but I got there. Smooth sailing afterwards, getting to solve the entire puzzle with moderate googling and Onelook. Once I figured out the extraction, QAT ([link](https://www.quinapalus.com/cgi-bin/qat?pat=bAr%3BA%3B%7CA%7C%3D5&ent=Search&dict=0) - spoilers obv) helped me get the remaining clues, so that was nice. 
+
+Overall, direct and clean. Nice.
+
+### [Divergent](https://hunt20.com/puzzle/divergent.html)
+
+Before this one unlocked, I felt like the puzzles were slowing down slightly kinda, so this was a nice change of pace.
+
+I "think" I was sorta spoiled on the first aha (but it didn't matter as it came naturally to me anyway). The overall puzzle was pretty smooth and pretty much worked exactly as I expected <span class="spoiler">apart from the fact that I needed 15 minutes to realise 100 years is not DECADE, heh.</span> Otherwise, simple, clean, nice.[^4] [^5] [^6] [^7] [^8]
+
+[^4]: *(The Divergent Movie)* This is also roughly when I decided I felt like watching a movie, so picked up Divergent on a whim. Now half my screen has Netflix and the other half, puzzles. It's pretty interesting (and I'm used to it). [^5]
+
+[^5]: *(The Divergent Movie)* I gotta say though, 30 mins in and it feels like a pretty YA-full movie. All the tropes I would expect, not all of them good. The villains are way too tropey ;-; [^6]
+
+[^6]: *(The Divergent Movie)* 1h in, and the obviousness of the stereotypes are getting to me ;-; But I'm not leaving a movie unfinished, so. [^7]
+
+[^7]: *(The Divergent Movie)* Oh god finally the movie is over. This was an ordeal and a half, and too many zero dimensional characters, but it's over. I don't know how this blog became movie review from puzzle review, but thank god the movie is over. [^8]
+
+[^8]: *(The Divergent Movie)* I just rage-read all of the future book spoilers, juust so I won't be tempted to watch those movies. I can be a sucker for pain sometimes ;-; Anywhoo... Back to the puzzles I guess.
+
+### [Meta : Percy Jackson](https://hunt20.com/puzzle/percy-jackson.html)
+
+I kinda knew what to do from the start. <span class="spoiler">Not happy with some of the ambiguity though. I can kinda sorta see a cluephrase but it'll take a lot more guesswork than I want to do.</span>
+
+I guess it's time to wait for more feeder answers then.
+
+...*(10 minutes later)* I got it. <span class="spoiler">Realised that this might be more "percy jackson monsters" than generic monsters (still not sure if it is). Realised I had TROLL as regeneration because of DnD and Harry Potter books, instead of HYDRA. Slotted in the right one. Got Nutrimatic giving me the answer phrase instantly.</span> Solved!
+
+I thought this was a bit ambiguous, and I'm not really happy with that. <span class="spoiler">Gryphon vs Griffin vs Griffon, for one</span> Not checking out the answers yet, but I wonder what it'll be. Either way, it's done, so I can continue. Not looking likely like I'll backsolve (Tried 10ish attempts on each puzzle before leaving it).
+
+I wish the puzzle had decided to <span class="spoiler">Reorder the books to make the monsters alphabetical. It's simple enough but would have been fairly cleaner.</span>
+
+## Arbitrary Break
+
+So far the puzzles are all nice and easy, and most of all, super pleasing. I'm starting to wonder just how little patience I had while solving Hunt20 last time. I REALLY didn't have the patience for this ;-;
+
+I am super impressed by the QoL and polish for this hunt. It's the standard I try to reach, and I think all hunts should generally try to do. So I'm happy with how things are so far.
+
+An interesting thing I realised is that Hunt20 did "A round where every puzzle is a book" before [MH22](https://puzzles.mit.edu/2022/) and <span class="spoiler">"Let's stop this asteroid from hitting Earth!"</span> before [GPH22](https://2022.galacticpuzzlehunt.com/). A hunt ahead of its time!
+
+Off to round 2 we go!
+
+... *(Sleep break)* So one day later, I have not touched any of my 3+3 open puzzles at all any further. Instead I was watching "Drive to Survive", Season 4 on Netflix. It's a documentary about Formula 1, with Season 4 being about the 2021 World Championship. [^9] [^10] [^11] [^12] [^13] [^14] [^15] [^16] Maybe I'll solve tomorrow.
+
+... *(Sleep Break x2)* So fun story. I have completely forgotten about puzzling these last two days (instead binging S1-3 of Drive to Survive). What can I say, it's a fun show. Plus, ECPH is coming so I need to be ready to solve that. So... I guess I'mma just post this one as is, and get back and hopefully get unstuck on Hunt20 when I return ;-;
+
+[^9]: *(Drive to Survive)* #notsponsored. But it is a very good show though. I really liked everything, from the story[^10] to the sound[^11] to just the general storylines coming out of the season[^12] to... Well everything. It was a very well written show, and it really "feels" real [^15], even if you're "spoiled" on the ending (thanks to Wikipedia or following the races like a regular F1 fan). 10/10 would recommend.[^16]
+
+[^10]: *(Drive to Survive)* Funny word to use in a documentary, "story"... But that's exactly what it was. What stories to edit and which to leave out of the season. I really noticed and sorta liked the "Every episode ends on an upbeat story for whoever we're following" choice. Which they could have really done the opposite on.
+
+[^11]: *(Drive to Survive)* I think in general, sound design in all our media has gotten to a scary level of competence-perfection. I know they're trying to make us feel specific things by framing things this way and that, but somehow everytime the right sounds come out... I still feel the exact things they want me to feel. It's immersive and awesome, but also somehow super scary in one respect.
+
+[^12]: *(Drive to Survive)* I know, I know. They don't actually have control over "that" either, but I still can't not feel hype about F1 as a sport that I used to love because of this show.[^13]
+
+[^13]: *(Drive to Survive)* Fun story about that. I still remember being a 11 year old watching Schumacher's (Michael not Mick) [last race](https://en.wikipedia.org/wiki/2006_Brazilian_Grand_Prix) before retirement (his first retirement, not second) at something ungodly like 3 am in the night on a small Black and White TV and sobbing to myself because he lost. One of my strongest held memories of F1, so it was good to come back to those.[^14]
+
+[^14]: *(Drive to Survive)* *Checks the time*... Well at least the "ungodly hours watching F1" bit of me havent changed.
+
+[^15]: *(Drive to Survive)* I think even little things like "Let unscripted bits be in the final product" have become such an art, making things feel so much "real" and closer in a documentary.
+
+[^16]: Also... Has this somehow taken a turn from being a puzzlehunt blog to a Movie&Media review blog? ;-;
+
+### Unsolved Puzzles
+
+### [I am Number Four](https://hunt20.com/puzzle/number-four.html)
+
+This is one of the puzzles I absolutely couldn't crack last time, and got spoiled on. So I'm gonna delay this one as long as I possibly can.
+
+...Which is apparently a long enough time, as the meta is down, and I only have a handful of clues filled in. <span class="spoiler">I already remember the "misheard common phrases" aha, and a few clues. And it's not like I can un-remember either, so just gonna fill them in. But otherwise I am actually fairly stuck, not making a good amount of progress on the remaining clues. I guess my tirade against all pronunciation/homophone based things continues ;-;</span>
+
+### [Miss Peregrine](https://hunt20.com/puzzle/miss-peregrine.html)
+
+I have no idea where to begin on this. Just going to come back later
+
+### [The Hunger Games](https://hunt20.com/puzzle/hunger-games.html)
+
+I sorta got most of the clues, but not sure what to do with them. This feels like one of those puzzles that'll crack if I stare at it long enough, but let's see.
+
+## Round 2 puzzles
+
+### [The Very Hungry Caterpillar](https://hunt20.com/puzzle/hungry-caterpillar.html)
+
+Got the slitherlink pretty straightforward. It was surprisingly simpler than I expected, and still fun. Got almost all of the clues. And then... stuck.
+
+### [The Lorax](https://hunt20.com/puzzle/the-lorax.html)
+
+Not touching it for now. I don't know where to begin.
+
+### [Matilda](https://hunt20.com/puzzle/matilda.html)
+
+Also no clue where to go. Netflix, here I come....
+
+
+## math.references.unsort()
