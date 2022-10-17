@@ -1,0 +1,227 @@
+---
+layout: post
+title:  "Live Adventures - ECPH"
+date:   2022-10-17 05:30:00 +0530
+---
+
+So... Werewolf by Night is a fun movie.[^1] I enjoyed watching it, and completely had no clue what I was watching, and what would happen next. It had a very interesting "out of time" feel to it, and definitely didn't feel like "standard" MCU.[^2] Not the best MCU thing I've seen, but I see quite a few people enjoying it, so it's quite a good thing!
+
+Oh and anyway, there were also puzzles I solved this week.
+
+[^1]: Or feature length presentation. Or something. Idk what it's called, but it's good.
+
+[^2]: If it's not clear, I'm an MCU fan, and watch everything they produce, so far.
+
+## [EC Puzzle Hunt](https://ecph.site/)
+
+### [Field Notes](https://ecph.site/puzzle/fieldnotes)
+
+Made a lot of progress <span class="spoiler">(ID all the animals). This was a very fun step and I enjoyed the fact that I could name almost all of them from memory.</span> Then ended up not making immediate progress on the rest of the puzzle, so switched to other puzzles.
+
+Was about to be almost stuck when I figured out the next aha <span class="spoiler">(The animal idioms). I feel like I was extremely close to this aha multiple times, but never fully vocalised it enough to check it.</span> Either way, steady sailing from then. Immediate solve.
+
+This puzzle was fun. I liked solving it. Clean too.
+
+### [Round Trip](https://ecph.site/puzzle/roundtrip)
+
+Started by IDing. Not surprised that we started PictureGame hunt with some good ol' Picture-Gaming. Was pretty happy I could ID all the locations (the left side). Made a ton of progress on the specific IDing during another long VC. <span class="spoiler">Got the colours aha soon after.</span> Busywork like this is so much more work when you're doing it alone.
+
+And then... stuck. Did a Hail Mary Nutrimatic. Didn't help ;-;
+
+... *(Sleep Break)* Woke up and tried more puzzling. Figured out one more aha after a lot of squeezing <span class="spoiler">The fact that they all show up in the "RGB Colour wheel". Not happiest about this aha because it's not very well defined, per se. Only showed up in certain colour pages on Wikipedia, but as an image, not as an article. So it was kinda hard to find</span>[^3] [(link to image (spoilers))](https://commons.wikimedia.org/wiki/File:RBG_color_wheel.svg)
+
+Had to use up a hint for the <span class="spoiler">Great circle aha (I had thought of drawing lines between colours, just was eyeballing it instead)</span> and the fact that I had miswritten one location answer[^4]. Spent a metric load of guesses, but eventually got to the answer. Yay.
+
+Nice puzzle. <span class="spoiler">Maybe they could have made the "great circles" aha more explicit, but that's a choice. I personally didn't like how the OG location ordering did not factor into the puzzle at all, but such is life.</span> Overall, it was fun and I had a good time. My streak of "I have the ahas but missed something simple" continues to continue ;-;[^5]
+
+[^3]: Makes me think it's not actually established theory but some rando guy submitting things on Wikipedia. But... I don't feel like going deep into "that" rabbit hole yet.
+
+[^4]: I still have no clue what location it is. It's so hard to google ;-;
+
+[^5]: Note to self, Do not write feedback in the place of hint request next time onwards ;-;
+
+### [Cobble](https://ecph.site/puzzle/cobble)
+
+So I knew what to do, and started on it. <span class="spoiler">And immediately screwed myself over by assuming `GREEN LANTERN` as Alpha instead of `GREEK LETTERS`. ;-;</span> Overthinking for the win, amirite? If only I could locate the exact puzzle from MH20(?) that felt very similar to this one.
+
+Otherwise, a combination of sheet functions <span class="spoiler">(`FILTER` combined with `REGEXMATCH` is really good)</span> worked well for me to figure out what is and isn't a valid word. Still stuck a fair bit, but let's see.
+
+...*(Sleep break)* Decided to hint it. Turns out, it was one of the possibilities I had thought of, but then discarded. ;-; Needed to hint before it told me <span class="spoiler">CARDS</span> was correct. Hinted once again, but rubber ducked myself just before the reply. Still needed 1-2 more hints to power through the rest of the puzzle ;-;[^6]
+
+[^6]: Unfortunately, during my stint as tech support for one of the Arithmancy teams (Being the sole bot maintainer has its downsides ;-;)[^7] I got spoiled on this answer. I had to then work my way through all the deductions independently until I could be sure I'd have otherwise figured it out myself. Standard, but also... ;-;
+
+[^7]: If you'd like you contribute to a [state of the art puzzle bot](https://github.com/kevslinger/bot-be-named/)[^8], please contact me. I'm also happy to help you setup the bot for your puzzling team, simply because it's awesome to share automation around.
+
+[^8]: No really, it may not be the "most" advanced bot around (I dont know which other bots are there ;-;) but it's hella robust. 6 months of no edits and it's still going very well every single hunt with almost no errors.
+
+Overall, I don't think I liked this puzzle much. The overall idea was fun, but <span class="spoiler">there were too many ambiguities at a lot of steps. It basically relied on "Hope your instincts are the same as ours", which is a thing I have seen puzzles often use, but I never appreciate (mostly because I never have the same instincts as the puzzle authors). But also, making the puzzle forcing would be straight up cleaner. That said, I did like the aha of "Every currency except ZLOTY shares a letter with POUND.</span>
+
+I think the puzzle would be better served if it had "Keep going" indermediate checkers at steps, either at steps equivalent to <span class="spoiler">"Currency"</span>, or at <span class="spoiler">POUND</span>. 
+
+Either way, this is solved, so time for the next one.
+
+### [A Very Large Integer](https://ecph.site/puzzle/averylargeinteger)
+
+I think I know whose puzzle this is.[^9] This will either be extremely painful, or very fun. Let's find out!
+
+Started by ruling out a couple silly ideas, then <span class="spoiler">remembering similar puzzles from other hunts that started this way (Two digit A1-Z26) to start.</span> Followed that up by slowly making my way through numbers (VLOOKUP is fun! And so is `=NGRAMS()`[^10] ). Took me a couple hours, but I always made steady progress on something or the other.
+
+<span class="spoiler">One thing I really appreciated in this puzzle is just how many confirmation steps there were. I never doubted my <span class="spoiler">Base 36 conversion or my "Split into 3s" or any other step because there was something or the other telling me "Okay you should have X now" or me just realising "Hold on, these are all letters and no numbers, surely I translated correctly".</span> This was the kind of puzzle that was perfect for me, and I eventually just cracked enough of it to brute force the last bit. <span class="spoiler">I never did figure out what `ONLSUOEFRUP` was in the languages step, just used my other 4-5 digits to guess at the location</span>
+
+The only thing I thought the puzzle could do better is <span class="spoiler">Clearly replace `HONEY` with another word with an A in it. That'd explicitly show 1=A is one of the possibilities, and not leave it up in the air whether we take 2 digit combos (What I kept trying), or 1 digit (what it was).</span>[^12] Otherwise the puzzle does a good job making you try different ideas while still keeping it fairly fun and refreshing. I personally liked <span class="spoiler">"They're all 25 in different bases" as well as the numberlink extraction</span> a fair bit.
+
+Very fun puzzle. I enjoyed it a lot. Finally had a puzzle that did not just keep me stalled forever. I'm happy. I think this might be the best puzzle I've seen in its generic category.[^11]
+
+[^9]: My guess is [Phenomist](https://phenomist.wordpress.com/puzzles-made/). His puzzle [Math 1001003](https://puzzles.mit.edu/2021/puzzle/math-1001003/) from MITMH 21 is one of my favourite puzzle ideas ever. Now either I look very silly with this guess, or I feel vindicated for figuring out people's puzzlewriting styles :p
+
+[^10]: Custom function I wrote. Find it in a [Google sheets puzzle tricks](https://docs.google.com/spreadsheets/d/1mTVD0KtjbU6-wp1mvYU_abrjdCmnP9focRa1qp36rrY/edit#gid=320864130) near you.
+
+[^11]: This puzzle is what <span class="spoiler">Have you tried</span> (Puzzle name) from <span class="spoiler">QOPH puzzle hunt</span> (hunt) should have been ([link](https://hunts.timwi.de/qoph/puzzle/have-you-tried) - spoilers).
+
+[^12]: Update: I was completely wrong on how to get <span class="spoiler">ONE from HONEY</span> and the real technique is 100% unambiguous. I am silly and got to the right result by accident lol.
+
+## Arbitrary Break 1
+
+I finished a fun puzzle in actually good time. And what do I get rewarded with? A cryptic! ;-; This is not okay. Maybe it's a sign that I must stop. ;-;
+
+With that though, I've been solving for 1.5 days now. And two hints used to get to 4 solves. I'm hoping the next solve unlocks the meta, but only time shall tell. At least I'm not as stuck as I previously was, but the 3 width still isn't doing me many favours ;-;
+
+### [En Route](https://ecph.site/puzzle/enroute)
+
+Started on this. I have an idea maybe <span class="spoiler">They're all units of measurement?</span> but it's not fully working out. Kinda surprised how well Google Lens works on Black and White images. Colour me impressed! (hehehe)
+
+...*(No sleep break even though there really should have been)*[^13] One hint later[^14], I started making steady progress, sort of in a sort of dreamy hazy state I was in. A lot of them feel unambiguous, while others are... just not cracking ;-; And the harder bit, I don't know what to do afterwards. <span class="spoiler">I thought it was some sort of "How many stations from X to Y" scenario, but the extracted letters on A1Z26 was just not coming out well. And I couldn't think of a good enough reordering.</span> Gaaaaaaah. I think I need to burn a follow up or something, but I also feel like I'm so darnedly close to the right idea that it should just be staring me in the face in the end. Aaaaaargh.
+
+Burned 2-3 more follow throughs. Took me a long time to figure out the remaining clues, and then needed to have the extraction sledgehammered to me <span class="spoiler">Just the fact that EXAMPLE is a station with same length and can be put in E-X-A-M-P-L-E.</span> Figured out the other constraints myself and then it was smooth sailing. And by smooth sailing I mean chugging along for 30-45 mins as I slowly made my way through clues painstakingly despite knowing exactly what to do from there to the end.[^15]
+
+Overall I thought this was a fairly tedious puzzle with not as many rewarding steps as I hoped. The overall puzzle was pretty aight <span class="spoiler">save for how clearcut EXAMPLE was. I think that could have been improved</span> but I spent way too much of my time Image-ID or copy pasting or similar grunt work. <span class="spoiler">Some image IDs were also failing Google Lens, so that's also not great.</span>
+
+At least now I get to unlock the METAAAAA!
+
+[^13]: Yaya I know. I have both a sleeping problem and a puzzling problem ;-; But what can you do? I'll sleep on time tomorrow. Maybe.
+
+[^14]: Technically I got spoiled on the first aha of the puzzle <span class="spoiler">Aka they're all metro line destinations or something</span>. But I later burnt a hint for free at the first possible opportunity to bring balance back to the force. So we're even now. Kinda.
+
+[^15]: The one saving grace in that is how easy copy-pasting from Wikipedia tables is. (Just go to Firefox, then Ctrl-select all the cells in Wikipedia table you want to copy, then copy). Thank [Timwi](https://hunts.timwi.de/) for showing me this absolute lifesaver of a trick.
+
+
+### [Meta - Fading Away](https://ecph.site/puzzle/fadedaway)
+
+Saw the puzzle. Knew the entire solve path from start to end within the next 60 seconds. Yet it's a testament to my inability to do grunt work myself that I "still" took 2 hours to wrap up the puzzle (and almost had a hint request fully written up even, just because I kept hitting walls of ambiguity while trying to solve this). ;-;
+
+Ultimately, after tons of googling, i kept making juuuust enough progress to not actually need the "Help I'm being dumb because I don't know how to do the thing I know I need to" hint. Had to also give up on trying to figure out <span class="spoiler">ZLOTY -> POLAND -> CHILE -> PESO</span> so I could basically brute forced the answer from the remaining letters by trial and error. Once that was done, decided to backsolve the other 2 feeders I had open (Only took 30 mins and a surprisingly limited amount of further automation)[^16]
+
+I'm extremely happy with this puzzle. I may or may not have been sniped, but it's a puzzle I really enjoyed. Clean, simple and I really love how everything neatly came together. <span class="spoiler">Well, technically, not that clean given how many different points of ambiguity were there. But I think that's a google problem, given that the puzzle always stuck with the official things.
+
+[^16]: Speaking of automation, a shout out to <span class="spoiler">`=COUNTRY_FLAG()`, by far my favourite custom function I had added. Made life super simple while manually scrolling through all possible countries in a quick-glance.</span> Also available on [Google sheets puzzle tricks](https://docs.google.com/spreadsheets/d/1mTVD0KtjbU6-wp1mvYU_abrjdCmnP9focRa1qp36rrY/edit#gid=320864130).[^17]
+
+[^17]:The other notable thing that "really" aided me was using the "Regex find-replace" function of my text editor (I use [Sublime](https://www.sublimetext.com/)). Turns out, when you can just search for <span class="spoiler">`[a-zA-Z]a[a-zA-Z][a-zA-Z][a-zA-Z][a-zA-Z] [a-zA-Z][a-zA-Z]n[a-zA-Z]` on the entire Wikipedia page for Bangladesh...</span> Life becomes much much easier
+
+### [Entering Competitions](https://ecph.site/puzzle/enteringcompetitions) - Backsolved
+
+I figured out the aha the moment I opened the puzzle. (Like most puzzlers would, I assume). [A surprise to be sure, but a welcome one](https://www.youtube.com/watch?v=ca-e5MrVbVU). Took me a few seconds to get some confirmations going, but it was fun. Started using Onelook ([link](https://www.onelook.com/thesaurus/?s=e*%20c*%3ABeauty%20Accessory) - spoilers) when I couldn't figure it out manually. 
+
+After solving the meta, backsolved it not long after.
+
+### [Rock Climbing](https://ecph.site/puzzle/rockclimbing) - Backsolved
+
+Cryptics ;-; Oh no.
+
+After solving the meta, backsolved it not long after.
+
+## Unarbitrary Break
+
+And with that, we fullsolved (well mostly) all of Round 1 of ECPH! It's already super late for me (and I didn't sleep for... I think 40 hours now ;-; [^13]) so I'll take my well deserved break from puzzling now. And I'll also call this the end of this blogpost.
+
+Overall thoughts, I think the hunt is a fair bit too hard, but such is life. I wish the width was slightly higher (or at least increasing) than we got (Timed unlocks pls ;-;). But otherwise I am having fun, and the puzzles are mostly clean and nice, and it's going good.
+
+Tomorrow, we begin with a new set of rounds, and new puzzles! 
+
+
+## [EC puzzlehunt](https://ecph.site/) - Round 2 (continued)
+
+Previously on "Tales from Tim"...
+
+We solved 7+1 puzzles from round 1, completely clearing it out! It took us only 2.5 days to do so. 
+
+And now... this.[^18]
+
+[^18]: Decided to merge my two posts, given I did not make enough progress through the second round of puzzles.
+
+### [Squared Away](https://ecph.site/puzzle/squaredaway)
+
+Took me a hint request to figure out the aha <span class="spoiler">The one about successively smaller squares. That was cool, though I wish they'd hinted it more.</span> Struggled a bunch with the execution, hitting ambiguities or plain being frustrated. Required another hint to clear those up. Eventually just gave up, came back a day and a half later, and finished it (with the help of said hints). Almost hinted it two separate other times but rubber-ducked myself just in time.
+
+Overall, the puzzle idea was nice, but I did not like the choice of <span class="spoiler">having 3 letter words</span> Other than that, I get why the embiguities were there because of the construction, so nothing to be done about it. Neat puzzle.
+
+### [Ice Fishing](https://ecph.site/puzzle/icefishing)
+
+Did steady progress on this over the course of 1.5 days. But between IRL being absolutely terrible, and me just vibing with the difficulty of this hunt... I just sort of lost steam for the entire hunt as a whole. Sigh.
+
+...*(Sleep break(s) later)* So after making a ton of progress and also having a bad day IRL... Decided to just burn hints to get this over with. I almost certainly could have filled out the rest of the grid without using the hints, but I think my hint policy shall continue to remain "Whenever solving will irritate me more". After a couple nudges (and some silly errors with gridding on my part), finally got the entire grid done. Yay!
+
+As for the extraction... Needed another hint to get me through here. <span class="spoiler">Yet another painful extraction for me, simply because of how many fishes I had to look at to get there. I think the overall idea was nice, but could use a bit more clueing (Given that the fish weren't directly hidden in the grid, but as one letter changed).</span> Otherwise I had to be nudged another lil bit until I finally figured out the extract <span class="spoiler">CHAD/CHAR being both fishes was also an ambiguity but happens when you got a constrained puzzle to write.</span>
+
+Overall, it was a nice puzzle, and I really enjoyed the "slug away at it until things make slightly more sense" quality of it.[^19] Very simple puzzle concept, but absolutely stunning how it worked out. I am extremely happy with this puzzle, despite not being a crossword person at all. Very nice.
+
+[^19]: I like to call puzzles like these "Lotus puzzles". You hack away at it to unravel one layer. Then you keep hacking away to unravel another layer. [Nutraumatic from MH21](https://puzzles.mit.edu/2021/puzzle/nutraumatic/) is my favourite Lotus puzzle of all time.[^20]
+
+[^20]: Well technically this puzzle was not a lotus at all. You had one aha and another extraction aha and that was it. But it felt quite similar in how you had to unravel succeeding parts of the entire "ciphered" text piece by piece until it all fell apart. Very pleasing.
+
+### [Journal Overtakeages](https://ecph.site/puzzle/journalovertakeages)
+
+Absolutely no clue what's going on. Avoiding it.
+
+... *(N sleep breaks later)* So I started answering the entries and trying out a few dud ideas on this. I "think" I could have probably cracked it by myself, but I'm running a lil bit thin on the patience front right now, so just decided to hint my way to figure out the aha. One hint later, I had the work done for the puzzle. Almost took another follow up, but decided to do the obvious thing first <span class="spoiler">If you have countries and a list, you either put the list on a map or on Yakko's world.</span> Guessed the answer from there.
+
+I did not like this puzzle. <span class="spoiler">It felt like two separate ideas crammed together. The country aha was pretty decent, but I felt the synonyms aha was heavily underclued. But given how well "fitting" some of the other puzzles in this hunt have been, this one stuck out. I also thought that the extraction was clunky. The countries chosen were not in reading order (I can only see `P-WIND CA-OF-SEOCULARS` and not their intended order) but also it didn't seem to "serve a purpose" other than just being a do-it-again It did make me doubt my letters for more than a hot second so... Would have worked a lot better for answers that actually had the synonyms property, instead of forcing one in.</span>
+
+Either way, it was a puzzle with a couple interesting and fun ideas. Don't mind me, I just have become crankier over the months and have way too strong a preference for "clean" puzzles. ;-; With that being said... Time for me to sleep.
+
+
+## Arbitrary Break 3
+
+At this point, we're about to finish Day 5 of puzzling. I've finally worked on puzzles for half a day after almost 2 days of break. And I broke into the top-100 of the rankings again (yay!). Probably could be doing better if I was taking this more seriously, but I think I prefer this more.
+
+I'm so far not happy with the puzzle width being this low, and am hoping it kinda improves. Also hoping for some easier "gimme-s" puzzles somewhere down the line. Just so solo solving doesn't feel like constant pain of max 1 puzzle per day or something ;-;
+
+Tomorrow'll likely be a harder day, given I've exhausted a couple of my approachable puzzles and left behind the puzzles I don't want to touch. We'll see.
+
+...*(Sleep break)* It is now tomorrow and I'm happy to tell you that "Plus one" is a hilarious movie currently on Netflix. It's personable and the jokes and cinematography are extremely awkward, but in a fun "This is how real people tell jokes" sort of way. The entire "uncharismaticness" of it is really fun, and I enjoyed it, even as it went through some rom com tropes.[^21] [^22]
+
+[^21]: I am not a rom com person fwiw
+
+[^22]: I am also not sure why I plan to continue these mid-puzzle movie reviews, but I have decided to own them, so there be.
+
+So anyway, progress is slow, and I am only making a little bit work each day. Let's see how we go.
+
+
+### [Garden Cleanup](https://ecph.site/puzzle/gardencleanup)
+
+I dont want to do this.
+
+Edit : I am doing this. Made a bunch of progress. Left it.
+
+... *(N Sleep breaks later)* Decided to hint this. I was not getting through and it was no longer being fun for me. Got leads. Followed leads. Got stuck again.
+
+... *(Sleep break later)* Got stuck again. Hinted again. Got through the final cluephrase with some hints and some powering through. Solved it. And with that... Puzzle width FINALLY widens ;-;
+
+<span class="spoiler">I did not enjoy this puzzle as much. It could have been really cool, but it felt rough in some places</span>[^23] I expect the non-googleablity of it was the entire point of the puzzle, but it felt weird with some of the symbols, where you just had to know what it was. Maybe with more cleaner symbols in some places it could have been fun. The overall idea was clever though, that I enjoyed. Also the extraction, it felt cool af.
+
+[^23]: <span class="spoiler">Specifically not a fan of choosing only the Ms of the Katakana, or the choice of Gemini for Is, or the cluephrase at all. Specially the cluephrase, it didn't read like it was unambiguous at all.</span>
+
+
+## Unarbitrary break
+
+And with that, the hunt is done. Decided to shoot a few hints to try and get into the top 100.. But that didn't work out. Turns out, not solving anything for 2 full days makes sure you fall behind other teams.
+
+As said a buncha times already... I did not enjoy the difficulty curve here. The opening round was way too hard for what it should have been. Maybe it's because of the (lack of) timed unlocks combined with the low puzzle width that juuust managed to hit me hard, but such is life.
+
+Overall, I really liked all the new ideas thrown into all of these puzzles. Way too many puzzles made me go "Oh I could make a puzzle on this/another similar topic", which is great. Helps my puzzlesetting mojo, but also shows just how "fresh" this hunt was.
+
+This was a fun experiment, even though a bit less smooth than I expected. At least I know what to do to improve into the top-100s and further inwards. I am happy.
+
+I will likely solve the rest of ECPH after I do Hunt20. Let's see.
+
+## Eferences, R. (2022)
+
